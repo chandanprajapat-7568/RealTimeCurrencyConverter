@@ -69,10 +69,9 @@ RealTimeCurrencyConverter/
 ```
 
 ## Screenshots
-![Home Page](Documentation/Screenshots/Home_Page.png)
-![Result Page](Documentation/Screenshots/Result_Page.png)
-![Server Running](Documentation/Screenshots/Server_Running.png)
-
+![Home Page](home page.png)
+![Result Page](after run.png)
+ 
 ## Endpoints
 - `/` - Home page (index.jsp)
 - `/convert` - Currency conversion servlet
