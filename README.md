@@ -69,8 +69,8 @@ RealTimeCurrencyConverter/
 ```
 
 ## Screenshots
-![Home Page](home page.png)
-![Result Page](after run.png)
+![Home Page]([home page.png](https://github.com/chandanprajapat-7568/RealTimeCurrencyConverter/blob/master/home%20page.png))
+![Result Page]([after run.png](https://github.com/chandanprajapat-7568/RealTimeCurrencyConverter/blob/master/after%20run.png))
  
 ## Endpoints
 - `/` - Home page (index.jsp)
