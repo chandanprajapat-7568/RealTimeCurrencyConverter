@@ -146,6 +146,7 @@
         
         <div class="footer">
             <p>Powered by Frankfurter API | Real-time exchange rates</p>
+            <p>Made by : Chandan Prajapat ❤️</p>
         </div>
     </div>
 </body>
